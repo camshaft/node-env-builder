@@ -1,5 +1,5 @@
 {
-  "name": "node-env-builder",
+  "name": "env-builder",
   "version": "0.1.0",
   "description": "Build environment variables with inheritance",
   "main": "index.js",
